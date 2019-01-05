@@ -1,0 +1,2 @@
+# ruc
+just another repository
